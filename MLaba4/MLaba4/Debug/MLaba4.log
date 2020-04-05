@@ -1,0 +1,4 @@
+﻿  MLaba4.cpp
+C:\Users\Lanc3\Desktop\MLaba4\MLaba4\MLaba4.cpp(54,9): warning C4101: t: неиспользованная локальная переменная
+C:\Users\Lanc3\Desktop\MLaba4\MLaba4\MLaba4.cpp(107,20): warning C4018: <=: несоответствие типов со знаком и без знака
+  MLaba4.vcxproj -> C:\Users\Lanc3\Desktop\MLaba4\Debug\MLaba4.exe
